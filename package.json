@@ -1,0 +1,25 @@
+{
+  "name": "noormind-yt-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.14.0",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "googleapis": "^148.0.0",
+    "openai": "^4.98.0",
+    "youtube-transcript": "^1.2.1"
+  }
+}
