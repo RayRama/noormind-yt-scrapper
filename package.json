@@ -20,6 +20,7 @@
     "dotenv": "^16.5.0",
     "googleapis": "^148.0.0",
     "openai": "^4.98.0",
+    "scrape-youtube": "^2.4.0",
     "youtube-transcript": "^1.2.1"
   }
 }
